@@ -1,0 +1,1 @@
+E:\xampp\htdocs\biblioteca-unsm\app/views/ejemplares/index.blade.php
